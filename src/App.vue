@@ -23,6 +23,7 @@ export default {
 <style>
 @import "assets/css/base.css";
 #app{
-  z-index: 9
+  z-index: 9;
+/*  */
 }
 </style>
